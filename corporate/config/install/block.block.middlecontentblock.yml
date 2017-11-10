@@ -1,0 +1,25 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - middlecontentblock
+    - system
+  theme:
+    - bootstrapmade
+id: middlecontentblock
+theme: bootstrapmade
+region: slider
+weight: 0
+provider: null
+plugin: middle_content_block
+settings:
+  id: middle_content_block
+  label: 'Middle Content Block'
+  provider: middlecontentblock
+  label_display: '0'
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

@@ -1,0 +1,24 @@
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:31a2cf8e-4d99-41bb-b3fb-5fd344281304'
+  module:
+    - block_content
+  theme:
+    - bootstrapmade
+id: linkfooter
+theme: bootstrapmade
+region: footer_bottom_right
+weight: 0
+provider: null
+plugin: 'block_content:31a2cf8e-4d99-41bb-b3fb-5fd344281304'
+settings:
+  id: 'block_content:31a2cf8e-4d99-41bb-b3fb-5fd344281304'
+  label: 'link footer'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

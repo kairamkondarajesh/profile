@@ -1,0 +1,92 @@
+# The following three lines are required, our profile won’t work without them:
+name: Corporate
+type: profile
+core: 8.x
+
+# Optionally we may also give a description for our profile or declare our
+# installation profile as a distribution, so that it'll be auto-selected.
+# If the profile was declared as a distribution, normally we will not be able
+# to see the profile's description, so it makes sense to use only one of the
+# following parameters.
+
+description: Corporate Basic Profile.
+dependencies:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+  - language
+  - locale
+  - content_translation
+  - config_translation
+  - views_slideshow
+  - views_slideshow_cycle
+  - entity
+  - media_entity
+  - video
+  - video_embed_field
+  - video_embed_media
+  - video_embed_wysiwyg
+  - mailchimp
+  - mailchimp_campaign
+  - mailchimp_lists
+  - mailchimp_signup
+  - addtoany
+  - lang_dropdown
+  - addressblock
+  - copyrightblock
+  - middlecontentblock
+  - admin_toolbar
+  - admin_toolbar_tools
+  - devel
+  - devel_generate
+  - kint
+  - hal
+  - serialization
+  - default_content
+  - ctools
+  - token
+  - rest
+  - restui
+  - file_entity
+  - geolocation
+  - geolocation_google_places_api
+  - social_login
+  - xmlsitemap
+  - xmlsitemap_custom
+  - xmlsitemap_engines
+themes:
+  - bartik
+  - seven
+  - bootstrap
+  - bootstrapmade

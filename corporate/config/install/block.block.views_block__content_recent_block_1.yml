@@ -1,0 +1,25 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.content_recent
+  module:
+    - views
+  theme:
+    - bootstrapmade
+_core:
+  default_config_hash: uZx2aodxbH1Zj_StgI_7GzBxVBliyZs4nLcRK3Utxmw
+id: views_block__content_recent_block_1
+theme: bootstrapmade
+region: footer3
+weight: 0
+provider: null
+plugin: 'views_block:content_recent-block_1'
+settings:
+  id: 'views_block:content_recent-block_1'
+  label: 'Latest posts'
+  provider: views
+  label_display: visible
+  views_label: 'Latest posts'
+  items_per_page: none
+visibility: {  }

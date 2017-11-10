@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+_core:
+  default_config_hash: NUxPj9ebyV7RNA4JEFPuZOXK7lPhWlK69aLDlIV88gU
+name: works
+type: works
+description: 'provides the recent works'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

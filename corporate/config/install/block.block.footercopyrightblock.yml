@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - copyrightblock
+  theme:
+    - bootstrapmade
+id: footercopyrightblock
+theme: bootstrapmade
+region: footer_bottom_left
+weight: 0
+provider: null
+plugin: footer_copyright_block
+settings:
+  id: footer_copyright_block
+  label: 'Footer Copyright Block'
+  provider: copyrightblock
+  label_display: '0'
+visibility: {  }

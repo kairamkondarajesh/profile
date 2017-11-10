@@ -1,0 +1,9 @@
+services:
+  corporate.form_helper:
+    class: '\Drupal\corporate\Form\FormHelper'
+    arguments:
+      - '@element_info'
+  corporate.config_bit:
+    class: '\Drupal\corporate\Config\ConfigBit'
+    arguments:
+      - '@element_info'

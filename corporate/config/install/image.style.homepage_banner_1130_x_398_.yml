@@ -1,0 +1,14 @@
+uuid: 5a6c7b7e-2bbd-4aae-849c-bd53e113bb15
+langcode: en
+status: true
+dependencies: {  }
+name: homepage_banner_1130_x_398_
+label: 'Homepage Banner(1130 X 398)'
+effects:
+  3a82e0ff-de2d-4dd1-9a62-ef8f985cc12d:
+    uuid: 3a82e0ff-de2d-4dd1-9a62-ef8f985cc12d
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1130
+      height: 398

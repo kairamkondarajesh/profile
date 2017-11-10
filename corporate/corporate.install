@@ -1,0 +1,31 @@
+<?php
+
+use Drupal\taxonomy\Entity\Vocabulary;
+use Drupal\taxonomy\Entity\Term;
+
+/**
+ * Implements hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ *
+ * @see system_install()
+ */
+function corporate_install() {
+  // First, do everything in standard profile.
+  include_once DRUPAL_ROOT . '/core/profiles/standard/standard.install';
+  standard_install();
+	\Drupal::service('theme_installer')->install(['bootstrapmade']);
+	\Drupal::service('theme_handler')->setDefault('bootstrapmade');
+  // Then we can perform our own actions.
+  $vocabulary = Vocabulary::create(array(
+    'vid' => 'corporate_home_banner',
+    'name' => 'techaspect profile vocabulary',
+  ))->save();
+  $term = Term::create(array(
+    'parent' => array(),
+    'name' => 'techaspect term',
+    'vid' => 'corporate_home_banner',
+  ))->save();
+
+  
+}

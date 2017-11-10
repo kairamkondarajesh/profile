@@ -1,0 +1,94 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/file\/8?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/image"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/image\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 8
+        }
+    ],
+    "uuid": [
+        {
+            "value": "50e51cd2-a712-483f-aa62-d3fd209559bd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/image\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "748319fd-8f4e-4d8d-9631-bb6c0e207c9c"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "gen1709.tmp.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2017-10\/gen1709.tmp.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 541
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": 1509272474
+        }
+    ],
+    "changed": [
+        {
+            "value": 1509272474
+        }
+    ],
+    "data": [
+        {
+            "value": "iVBORw0KGgoAAAANSUhEUgAAAGgAAAFYBAMAAABNP6SLAAAAD1BMVEVoqkWDM0D6EVZPFGDJ0Q6EMTgPAAAByUlEQVR4nO3V263CMBCEYR5oIJIriOgACoiD+6\/pCAhge+dHh0RCCI3fP83s5uLdDs+Ah42RkZGRkZGRkZGRkZGRkZGRkZGRkZGRkdHHUbme\/Abal3JLSqX8E+3LVNVTTBSbupliyWjiIlKv2FTb6xWbeuWdYtM8p1a1e9sRGhKh\/cRoKIBa079GWaKye4mqsWigiKqxsJx4y3NAISiiFFAIEt9T7lAMEih1KAapLzc3SAQplBokguQ\/IldIBUmUtiLVTv\/C8gPJII3SNiTbwR82L0gHAUpbkG5HF0Bej6AdobQeQTu81PJaRO0QpY8iGolv9\/ztCPfAKP0kmt5Hg9EdzSOdIx6jTejwPjr9JBrnt9H56xFuAvdw\/CTCoXCk1Yj6YbvViPphu\/UI+mG79Qj6Ybsb0lEYtAHpfthuQTIKg7Yg2Q\/b3ZGKwqA7UlEY9EAiCoMeSERh0BPFKAx6ohiFQRUKURhUobG8RqezQn1BKteiw\/wClaNG3VgwUI\/asWCggBqFpke1QhNQpdBENJa5Q6U3Ao2HhS2k9ESiCys3dFIE0KXk9YRir9HIl5qRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkdFW9AcNDg0C52jB1wAAAABJRU5ErkJggg=="
+        }
+    ]
+}

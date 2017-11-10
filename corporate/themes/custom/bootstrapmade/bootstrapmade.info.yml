@@ -1,0 +1,34 @@
+# core: 8.x
+type: theme
+base theme: bootstrap
+name: 'BootstrapMade'
+description: 'Custom sub theme for bootstrap'
+package: 'Custom'
+regions:
+  language_switcher: 'Language Switcher'
+  navigation: 'Navigation'
+  navigation_collapsible: 'Navigation (Collapsible)'
+  header: 'Top Bar'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  slider: 'Slider'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer1: 'Footer1'
+  footer2: 'Footer2'
+  footer3: 'Footer3'
+  footer4: 'Footer4'
+  footer_bottom_left: 'bottom left footer'
+  footer_bottom_right: 'bottom right footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+libraries:
+  - bootstrapmade/global-styling
+  - bootstrapmade/global-js
+  - bootstrapmade/fancybox
+  - bootstrapmade/jcarousel
+  - bootstrapmade/animate
+  - bootstrapmade/flexslider
+core: '8.x'
+datestamp: 1487640792

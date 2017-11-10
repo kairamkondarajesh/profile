@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - addressblock
+  theme:
+    - bootstrapmade
+id: footeraddressblock
+theme: bootstrapmade
+region: footer1
+weight: 0
+provider: null
+plugin: footer_address_block
+settings:
+  id: footer_address_block
+  label: 'Footer Address Block'
+  provider: addressblock
+  label_display: '0'
+visibility: {  }

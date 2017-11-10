@@ -1,0 +1,173 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/node\/27?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/blogs"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/blogs\/uid": [
+            {
+                "href": "http:\/\/default\/user\/0?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/blogs\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/0?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/blogs\/field_image": [
+            {
+                "href": "http:\/\/default\/file\/9?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 27
+        }
+    ],
+    "uuid": [
+        {
+            "value": "ffd59b2d-ae37-4701-be48-8787a6b2b4b2"
+        }
+    ],
+    "vid": [
+        {
+            "value": 43
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "blogs"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Facilisis Oppeto Quidne Turpis",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/blogs\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "2433ce1f-4763-40f1-aebb-7b53bcec5775"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/blogs\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "2433ce1f-4763-40f1-aebb-7b53bcec5775"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/blogs\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/file\/9?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "375b3c47-d621-4fd4-a2a3-6678cebefb47"
+                    }
+                ],
+                "lang": "en",
+                "alt": "Damnum facilisi genitus inhibeo pecus te typicus vereor.",
+                "title": "Decet feugiat in minim os quia tation torqueo turpis.",
+                "width": "333",
+                "height": "173"
+            }
+        ]
+    },
+    "created": [
+        {
+            "value": 1509088615,
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": 1509272474,
+            "lang": "en"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": 1509272474
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Abdo adipiscing commoveo dolore dolus enim erat jumentum paratus virtus. Praesent tamen venio. Magna nibh pagus verto. Cui elit haero loquor luptatum molior pala probo voco. Consectetuer cui ea iaceo lobortis luctus proprius refero valetudo vicis. Amet consectetuer fere gilvus lobortis macto patria. Consequat decet qui turpis. Accumsan gilvus nunc premo proprius. Abdo caecus cui illum importunus quadrum ratis torqueo uxor.\n\nAbdo neque quia. Huic modo rusticus volutpat. Cogo esse jus lobortis pecus tamen utinam vulputate. Caecus cogo feugiat minim sino vereor. Adipiscing commoveo duis refoveo saepius si utinam voco. Brevitas pneum venio. Abluo ad aptent decet gravis melior tamen utrum.\n\nAt capto eros exerci minim premo proprius usitas. Duis euismod in singularis. Decet gravis nisl. Ille inhibeo odio qui roto sed sit tamen vicis. Caecus consectetuer distineo eros humo ille interdico probo refoveo torqueo. Mos nunc rusticus vulpes vulputate. Aliquam aliquip antehabeo augue gilvus ibidem in incassum minim.\n\nAbluo nibh occuro oppeto persto tincidunt vero. Facilisis importunus loquor natu nutus obruo paulatim ymo. Accumsan persto pneum quidne secundum valde voco. Illum interdico mauris modo praesent probo suscipit vindico. Ad lobortis nimis nostrud populus vel vulpes.\n\nAbbas autem caecus damnum eum jumentum luptatum meus. Acsi decet dolore enim ludus os pecus tation valetudo venio. Bene exerci exputo nulla turpis utrum zelus. Capto elit feugiat jus nimis nostrud quadrum si tation ullamcorper.\n\nAugue iriure melior ymo. Exerci gilvus laoreet quidem singularis. Camur elit quadrum suscipere. Hendrerit importunus magna persto praemitto si. Cogo conventio diam metuo molior. Et pneum quia. Ille jumentum loquor nisl. Damnum hos persto typicus. Lobortis pagus praesent ut.\n\nAbigo distineo iusto occuro refero volutpat. Haero nobis odio pertineo. Et laoreet paulatim usitas. Cogo decet eum feugiat interdico modo quia verto wisi. Abbas accumsan aliquam decet ille loquor luptatum premo voco. Appellatio autem defui dolus esse mos olim saluto turpis. Elit hendrerit metuo ratis utinam verto. Ea letalis quidem.\n\nAcsi enim interdico modo nostrud tamen te. Illum quidem roto typicus. Aliquam at blandit erat esca gemino ille occuro sino ulciscor. Aliquip at dolus haero huic meus nimis valetudo. Abigo damnum esse eum interdico jus metuo sudo vulpes.\n\nAmet cui gilvus humo iriure neo odio validus. Dolor incassum vulpes. Appellatio brevitas elit ibidem jumentum metuo tamen te uxor volutpat. Patria pneum sed si. Commoveo defui ludus metuo. Abbas dolore exerci oppeto paulatim tamen venio volutpat. Antehabeo tego valde vulpes. Aliquip genitus loquor secundum venio.\n\nAptent at commodo metuo nobis. Consequat ex natu praesent. Abico bene diam dolore ille in mauris os uxor. Facilisi gilvus hos ille immitto neo paulatim sagaciter volutpat. Exerci neque obruo olim qui validus vulputate.\n\nAbigo augue facilisis fere jumentum lobortis nisl pala pecus virtus. Ad dignissim facilisi loquor odio pagus quadrum tum virtus ymo. Abbas abluo immitto populus tation.\n\nBene cogo conventio huic letalis neque odio velit volutpat. Accumsan esca haero imputo incassum lucidus ludus neque paulatim proprius. Modo os ratis valde. Acsi lobortis macto pneum torqueo turpis.\n\n",
+            "format": "plain_text",
+            "summary": "Abdo adipiscing commoveo dolore dolus enim erat jumentum paratus virtus. Praesent tamen venio. Magna nibh pagus verto. Cui elit haero loquor luptatum molior pala probo voco. Consectetuer cui ea iaceo lobortis luctus proprius refero valetudo vicis. Amet consectetuer fere gilvus lobortis macto patria. Consequat decet qui turpis. Accumsan gilvus nunc premo proprius. Abdo caecus cui illum importunus quadrum ratis torqueo uxor.\n\nAbdo neque quia. Huic modo rusticus volutpat. Cogo esse jus lobortis pecus tamen utinam vulputate. Caecus cogo feugiat minim sino vereor. Adipiscing commoveo duis refoveo saepius si utinam voco. Brevitas pneum venio. Abluo ad aptent decet gravis melior tamen utrum.\n\nAt capto eros exerci minim premo proprius usitas. Duis euismod in singularis. Decet gravis nisl. Ille inhibeo odio qui roto sed sit tamen vicis. Caecus consectetuer distineo eros humo ille interdico probo refoveo torqueo. Mos nunc rusticus vulpes vulputate. Aliquam aliquip antehabeo augue gilvus ibidem in incassum minim.\n\nAbluo nibh occuro oppeto persto tincidunt vero. Facilisis importunus loquor natu nutus obruo paulatim ymo. Accumsan persto pneum quidne secundum valde voco. Illum interdico mauris modo praesent probo suscipit vindico. Ad lobortis nimis nostrud populus vel vulpes.\n\nAbbas autem caecus damnum eum jumentum luptatum meus. Acsi decet dolore enim ludus os pecus tation valetudo venio. Bene exerci exputo nulla turpis utrum zelus. Capto elit feugiat jus nimis nostrud quadrum si tation ullamcorper.\n\nAugue iriure melior ymo. Exerci gilvus laoreet quidem singularis. Camur elit quadrum suscipere. Hendrerit importunus magna persto praemitto si. Cogo conventio diam metuo molior. Et pneum quia. Ille jumentum loquor nisl. Damnum hos persto typicus. Lobortis pagus praesent ut.\n\nAbigo distineo iusto occuro refero volutpat. Haero nobis odio pertineo. Et laoreet paulatim usitas. Cogo decet eum feugiat interdico modo quia verto wisi. Abbas accumsan aliquam decet ille loquor luptatum premo voco. Appellatio autem defui dolus esse mos olim saluto turpis. Elit hendrerit metuo ratis utinam verto. Ea letalis quidem.\n\nAcsi enim interdico modo nostrud tamen te. Illum quidem roto typicus. Aliquam at blandit erat esca gemino ille occuro sino ulciscor. Aliquip at dolus haero huic meus nimis valetudo. Abigo damnum esse eum interdico jus metuo sudo vulpes.\n\nAmet cui gilvus humo iriure neo odio validus. Dolor incassum vulpes. Appellatio brevitas elit ibidem jumentum metuo tamen te uxor volutpat. Patria pneum sed si. Commoveo defui ludus metuo. Abbas dolore exerci oppeto paulatim tamen venio volutpat. Antehabeo tego valde vulpes. Aliquip genitus loquor secundum venio.\n\nAptent at commodo metuo nobis. Consequat ex natu praesent. Abico bene diam dolore ille in mauris os uxor. Facilisi gilvus hos ille immitto neo paulatim sagaciter volutpat. Exerci neque obruo olim qui validus vulputate.\n\nAbigo augue facilisis fere jumentum lobortis nisl pala pecus virtus. Ad dignissim facilisi loquor odio pagus quadrum tum virtus ymo. Abbas abluo immitto populus tation.\n\nBene cogo conventio huic letalis neque odio velit volutpat. Accumsan esca haero imputo incassum lucidus ludus neque paulatim proprius. Modo os ratis valde. Acsi lobortis macto pneum torqueo turpis.\n\n",
+            "lang": "en"
+        }
+    ]
+}

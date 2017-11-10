@@ -1,0 +1,53 @@
+corporate.Contact:
+  title: 'CONTACT'
+  menu_name: main
+  url: 'https://www.google.co.in'
+corporate.Blog:
+  title: 'BLOG'
+  menu_name: main
+  url: 'https://www.google.co.in'
+corporate.Portfolio:
+  title: 'PORTFOLIO'
+  menu_name: main
+  url: 'https://www.google.co.in'
+corporate.Features:
+  title: 'FEATURES'
+  menu_name: main
+  url: 'https://www.google.co.in'
+  expanded: TRUE
+corporate.Typography:
+  title: 'TYPOGRAPHY'
+  menu_name: main
+  parent: corporate.Features 
+  url: 'https://www.google.co.in'
+corporate.Components:
+  title: 'COMPONENTS'
+  menu_name: main
+  parent: corporate.Features 
+  url: 'https://www.google.co.in'
+corporate.PricingBox:
+  title: 'PRICING BOX'
+  menu_name: main
+  parent: corporate.Features 
+  url: 'https://www.google.co.in'
+corporate.home:
+  title: 'HOME'
+  route_name: '<front>'
+  menu_name: main
+corporate.pressrelease:
+  title: 'Press release'
+  menu_name: footer
+  url: 'https://www.google.co.in'
+corporate.termsandconditions:
+  title: 'Terms and Conditions'
+  menu_name: footer
+  url: 'https://www.google.co.in'
+corporate.Privacypolicy:
+  title: 'Privacy policy'
+  menu_name: footer
+  url: 'https://www.google.co.in'
+corporate.Careercenter:
+  title: 'Career center'
+  menu_name: footer
+  url: 'https://www.google.co.in'
+

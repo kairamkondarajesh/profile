@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/node\/39?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/offices"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/offices\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/offices\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 39
+        }
+    ],
+    "uuid": [
+        {
+            "value": "961f5c92-aec0-41a1-a22a-d6b0f04c197b"
+        }
+    ],
+    "vid": [
+        {
+            "value": 55
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "offices"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "METRO DETROIT",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/offices\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "55eb2185-389d-4246-9a00-94f2aee8b0a3"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/offices\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "55eb2185-389d-4246-9a00-94f2aee8b0a3"
+                    }
+                ]
+            }
+        ]
+    },
+    "created": [
+        {
+            "value": 1509620875,
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": 1509620957,
+            "lang": "en"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": 1509620957
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "field_address": [
+        {
+            "value": "17187 N. Laurel Park Drive\r\nSuite 110 \r\nLivonia, MI 48152 USA "
+        }
+    ],
+    "field_location": [
+        {
+            "lat": 42.391735855099,
+            "lng": -83.089251519414,
+            "lat_sin": 0.67419586832786,
+            "lat_cos": 0.73855259198627,
+            "lng_rad": -1.4501810120315,
+            "data": []
+        }
+    ],
+    "field_phone": [
+        {
+            "value": "+1 734-238-0005"
+        }
+    ]
+}
