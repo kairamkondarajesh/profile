@@ -1,0 +1,50 @@
+<?php
+
+/**
+ * @file
+ * Contains functionality of theme.
+ */
+
+use Drupal\Core\Form\FormStateInterface;
+
+/**
+ * Implements hook_form_system_theme_settings_alter().
+ */
+function bootstrapmade_form_system_theme_settings_alter(&$form, FormStateInterface $form_state) {
+  $form['bootstrapmade_settings']['facebook_url'] = [
+    '#type' => 'textfield',
+    '#title' => t('Facebook Link'),
+    '#default_value' => theme_get_setting('facebook_url', 'bootstrapmade'),
+  ];
+  $form['bootstrapmade_settings']['twitter_url'] = [
+    '#type' => 'textfield',
+    '#title' => t('Twitter Link'),
+    '#default_value' => theme_get_setting('twitter_url', 'bootstrapmade'),
+  ];
+  $form['bootstrapmade_settings']['linkedin_url'] = [
+    '#type' => 'textfield',
+    '#title' => t('Linkedin Link'),
+    '#default_value' => theme_get_setting('linkedin_url', 'bootstrapmade'),
+  ];
+  $form['bootstrapmade_settings']['pinterest_url'] = [
+    '#type' => 'textfield',
+    '#title' => t('Pinterest Link'),
+    '#default_value' => theme_get_setting('pinterest', 'bootstrapmade'),
+  ];
+  $form['bootstrapmade_settings']['googleplus_url'] = [
+    '#type' => 'textfield',
+    '#title' => t('Googleplus Link'),
+    '#default_value' => theme_get_setting('googleplus_url', 'bootstrapmade'),
+  ];
+}
+
+/**
+ * Implements hook_preprocess_page().
+ */
+function bootstrapmade_preprocess_page(&$variables) {
+  $variables['facebook_url'] = theme_get_setting('facebook_url', 'bootstrapmade');
+  $variables['twitter_url'] = theme_get_setting('twitter_url', 'bootstrapmade');
+  $variables['linkedin_url'] = theme_get_setting('linkedin_url', 'bootstrapmade');
+  $variables['pinterest_url'] = theme_get_setting('pinterest_url', 'bootstrapmade');
+  $variables['googleplus_url'] = theme_get_setting('googleplus_url', 'bootstrapmade');
+}
