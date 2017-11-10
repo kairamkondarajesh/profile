@@ -1,0 +1,173 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/node\/24?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/works"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/works\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/works\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/works\/field_image": [
+            {
+                "href": "http:\/\/default\/file\/6?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 24
+        }
+    ],
+    "uuid": [
+        {
+            "value": "44f8a5f1-cc31-4c25-8afc-04115cd2f187"
+        }
+    ],
+    "vid": [
+        {
+            "value": 40
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "works"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Jugis Patria Saluto Sudo",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/works\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "748319fd-8f4e-4d8d-9631-bb6c0e207c9c"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/works\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "748319fd-8f4e-4d8d-9631-bb6c0e207c9c"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/works\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/file\/6?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0ea26fe4-0126-4df0-bc3f-a1322451b35e"
+                    }
+                ],
+                "lang": "en",
+                "alt": "Ille inhibeo meus mos singularis tincidunt.",
+                "title": "Jus praesent sagaciter voco.",
+                "width": "222",
+                "height": "419"
+            }
+        ]
+    },
+    "created": [
+        {
+            "value": 1508828856,
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": 1509272427,
+            "lang": "en"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": 1509272427
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Esca facilisis iusto lenis quidem tum. Minim nulla pertineo. Causa commodo conventio humo iustum probo quadrum vindico. Acsi at caecus et ibidem melior patria singularis venio. Capto conventio et imputo natu quadrum secundum. Commodo commoveo distineo iaceo mauris persto pertineo premo valde.\n\nDiam ideo inhibeo neque quis turpis typicus velit. Quidem valetudo validus. Abluo accumsan blandit caecus inhibeo jugis pecus sed similis. Causa facilisis hendrerit hos iustum plaga sed sino uxor. Immitto lobortis nulla odio typicus. Camur eligo illum usitas. Dolor dolus ea in nunc premo.\n\nConsectetuer elit facilisis iaceo laoreet letalis magna mos. Camur causa lenis. Esca euismod metuo nunc quibus. Autem cui humo meus suscipit vel. Lobortis nutus proprius.\n\nAbico imputo suscipere ullamcorper volutpat. Autem capto dolor iusto lobortis praemitto suscipit valde. Accumsan adipiscing bene capto eligo jugis saepius velit wisi. Aliquip iriure pala pertineo saluto similis volutpat.\n\nEsca pala plaga premo probo quadrum. Antehabeo brevitas hendrerit mos os populus. Decet euismod haero tum utrum valetudo. Augue comis esca modo obruo tincidunt.\n\nDolus ex melior mos nutus qui valde vindico voco ymo. Abluo consectetuer hos immitto melior quidne sed utinam utrum. Gemino hendrerit lenis pala wisi. Brevitas capto distineo haero in metuo pneum refoveo roto sino. Dolus haero huic humo meus nulla sed utrum vero.\n\nLuptatum quibus ratis suscipere ullamcorper ut. Blandit decet gravis in nibh nunc praemitto quidne refero sed. Antehabeo cui minim paulatim. Aptent brevitas facilisi odio paratus virtus vulpes. Consequat gilvus hendrerit iusto loquor populus suscipit. Abigo commodo eligo eu paratus suscipere.\n\nDolore jus paratus sino tum. Antehabeo brevitas diam ibidem sagaciter ullamcorper utrum validus. Commodo esse huic molior oppeto vereor. Causa enim erat iriure pecus ullamcorper. Brevitas dolus paratus quae sino tincidunt vicis virtus volutpat. Cui inhibeo os sagaciter tego. Acsi lucidus nulla occuro patria turpis vindico zelus. Conventio eros feugiat jugis lenis letalis nostrud pertineo refoveo.\n\nAppellatio dolus jugis jus neque nunc sino te. Odio ulciscor velit. Conventio ideo persto. Ad conventio enim feugiat interdico sed tum ulciscor velit veniam. Eum nulla velit. Acsi caecus eligo haero huic nimis olim paulatim tum veniam. Blandit lobortis meus quia quidem suscipit tation. Abbas erat esse gilvus nulla pneum saepius vindico. Duis ea ille macto obruo os ut venio.\n\nEuismod feugiat humo ille immitto pagus praesent quis vel vero. Appellatio cui eum jugis nimis populus tum veniam. Erat ille os patria praemitto utrum.\n\nAmet caecus facilisis luctus neo pertineo sudo veniam verto. Blandit venio vereor. Eum mos obruo paulatim typicus utinam. Abico caecus enim jugis odio roto. Haero odio tincidunt.\n\nAbbas accumsan camur defui dolor esse quia similis ulciscor vero. Abigo comis consequat saepius sit. Brevitas incassum laoreet nobis populus ratis vel venio. Damnum feugiat jugis neque praemitto si sit typicus voco ymo. Duis gravis hos paratus. Causa comis distineo eligo mauris meus olim sino typicus volutpat. Appellatio brevitas euismod ibidem premo valde. Accumsan causa cogo commoveo dolore roto.\n\n",
+            "format": "plain_text",
+            "summary": "Esca facilisis iusto lenis quidem tum. Minim nulla pertineo. Causa commodo conventio humo iustum probo quadrum vindico. Acsi at caecus et ibidem melior patria singularis venio. Capto conventio et imputo natu quadrum secundum. Commodo commoveo distineo iaceo mauris persto pertineo premo valde.\n\nDiam ideo inhibeo neque quis turpis typicus velit. Quidem valetudo validus. Abluo accumsan blandit caecus inhibeo jugis pecus sed similis. Causa facilisis hendrerit hos iustum plaga sed sino uxor. Immitto lobortis nulla odio typicus. Camur eligo illum usitas. Dolor dolus ea in nunc premo.\n\nConsectetuer elit facilisis iaceo laoreet letalis magna mos. Camur causa lenis. Esca euismod metuo nunc quibus. Autem cui humo meus suscipit vel. Lobortis nutus proprius.\n\nAbico imputo suscipere ullamcorper volutpat. Autem capto dolor iusto lobortis praemitto suscipit valde. Accumsan adipiscing bene capto eligo jugis saepius velit wisi. Aliquip iriure pala pertineo saluto similis volutpat.\n\nEsca pala plaga premo probo quadrum. Antehabeo brevitas hendrerit mos os populus. Decet euismod haero tum utrum valetudo. Augue comis esca modo obruo tincidunt.\n\nDolus ex melior mos nutus qui valde vindico voco ymo. Abluo consectetuer hos immitto melior quidne sed utinam utrum. Gemino hendrerit lenis pala wisi. Brevitas capto distineo haero in metuo pneum refoveo roto sino. Dolus haero huic humo meus nulla sed utrum vero.\n\nLuptatum quibus ratis suscipere ullamcorper ut. Blandit decet gravis in nibh nunc praemitto quidne refero sed. Antehabeo cui minim paulatim. Aptent brevitas facilisi odio paratus virtus vulpes. Consequat gilvus hendrerit iusto loquor populus suscipit. Abigo commodo eligo eu paratus suscipere.\n\nDolore jus paratus sino tum. Antehabeo brevitas diam ibidem sagaciter ullamcorper utrum validus. Commodo esse huic molior oppeto vereor. Causa enim erat iriure pecus ullamcorper. Brevitas dolus paratus quae sino tincidunt vicis virtus volutpat. Cui inhibeo os sagaciter tego. Acsi lucidus nulla occuro patria turpis vindico zelus. Conventio eros feugiat jugis lenis letalis nostrud pertineo refoveo.\n\nAppellatio dolus jugis jus neque nunc sino te. Odio ulciscor velit. Conventio ideo persto. Ad conventio enim feugiat interdico sed tum ulciscor velit veniam. Eum nulla velit. Acsi caecus eligo haero huic nimis olim paulatim tum veniam. Blandit lobortis meus quia quidem suscipit tation. Abbas erat esse gilvus nulla pneum saepius vindico. Duis ea ille macto obruo os ut venio.\n\nEuismod feugiat humo ille immitto pagus praesent quis vel vero. Appellatio cui eum jugis nimis populus tum veniam. Erat ille os patria praemitto utrum.\n\nAmet caecus facilisis luctus neo pertineo sudo veniam verto. Blandit venio vereor. Eum mos obruo paulatim typicus utinam. Abico caecus enim jugis odio roto. Haero odio tincidunt.\n\nAbbas accumsan camur defui dolor esse quia similis ulciscor vero. Abigo comis consequat saepius sit. Brevitas incassum laoreet nobis populus ratis vel venio. Damnum feugiat jugis neque praemitto si sit typicus voco ymo. Duis gravis hos paratus. Causa comis distineo eligo mauris meus olim sino typicus volutpat. Appellatio brevitas euismod ibidem premo valde. Accumsan causa cogo commoveo dolore roto.\n\n",
+            "lang": "en"
+        }
+    ]
+}

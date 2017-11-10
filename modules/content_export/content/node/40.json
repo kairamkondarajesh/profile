@@ -1,0 +1,157 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/node\/40?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/offices"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/offices\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/offices\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 40
+        }
+    ],
+    "uuid": [
+        {
+            "value": "1b125914-096f-4ab7-8a7b-ba5a39e7aa08"
+        }
+    ],
+    "vid": [
+        {
+            "value": 56
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "offices"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "LONDON",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/offices\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "55eb2185-389d-4246-9a00-94f2aee8b0a3"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/offices\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "55eb2185-389d-4246-9a00-94f2aee8b0a3"
+                    }
+                ]
+            }
+        ]
+    },
+    "created": [
+        {
+            "value": 1509620978,
+            "lang": "en"
+        }
+    ],
+    "changed": [
+        {
+            "value": 1509621014,
+            "lang": "en"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": 1509621014
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "field_address": [
+        {
+            "value": "No.17, Crawley Business Centre, Stephenson Way, Three Bridges, RH10 1TN UK "
+        }
+    ],
+    "field_location": [
+        {
+            "lat": 51.5073509,
+            "lng": -0.12775829999998,
+            "lat_sin": 0.78268801742555,
+            "lat_cos": 0.62241422491654,
+            "lng_rad": -0.0022298029817504,
+            "data": []
+        }
+    ],
+    "field_phone": [
+        {
+            "value": "+44 20 8432 2955"
+        }
+    ]
+}
