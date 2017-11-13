@@ -30,12 +30,12 @@ function corporate_install_tasks(&$install_state) {
       'display' => $needs_configure_multilingual,
       'type' => 'batch',
     ),
-    'corporate_mailchimp_configuration_form' => array(
-      'display_name' => t('Mail Chimp configuration'),
-      'display' => TRUE,
-      'type' => 'form',
-      'function' => MailchimpAdminSettingsForm::class,
-    ),
+    //'corporate_mailchimp_configuration_form' => array(
+    //  'display_name' => t('Mail Chimp configuration'),
+    //  'display' => TRUE,
+    //  'type' => 'form',
+    //  'function' => MailchimpAdminSettingsForm::class,
+    //),
     'corporate_generate_contents' => array(
       'display_name' => t('Generating Contents'),
       'display' => TRUE,
