@@ -156,7 +156,9 @@ class ConfigureMultilingualForm extends FormBase {
     $GLOBALS['install_state']['corporate']['enable_multilingual'] = $enable_multilingual;
 
     $multilingual_languages = $form_state->getValue('multilingual_languages');
-    $multilingual_languages = array_filter($multilingual_languages);
+	if (is_array($config['content']['other'])) {
+		$multilingual_languages = array_filter($multilingual_languages);
+	}
     $GLOBALS['install_state']['corporate']['multilingual_languages'] = $multilingual_languages;
   }
 

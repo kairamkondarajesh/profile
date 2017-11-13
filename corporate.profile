@@ -79,7 +79,7 @@ function corporate_configure_multilingual(array &$install_state) {
     $batch['operations'][] = ['corporate_hide_warning_and_status_messages', (array) TRUE];
 
     // Change configurations to work with enable_multilingual.
-    $batch['operations'][] = ['corporate_config_bit_for_multilingual', (array) TRUE];
+    //$batch['operations'][] = ['corporate_config_bit_for_multilingual', (array) TRUE];
 
   }
   else {
